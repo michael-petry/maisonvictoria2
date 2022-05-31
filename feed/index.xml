@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>My WordPress Blog</description>
-	<lastBuildDate>Tue, 31 May 2022 01:40:23 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 31 May 2022 02:02:13 +0000</lastBuildDate>
 	<language>pt-PT</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -25,6 +25,9 @@
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
+Object Caching 21/29 objects using disk
+Page Caching using disk: enhanced (Page is feed) 
+Lazy Loading (feed)
 
-Served from: maisonvictoria.granatosalvino.com.br @ 2022-05-31 01:48:20 by W3 Total Cache
+Served from: maisonvictoria.granatosalvino.com.br @ 2022-05-31 02:03:40 by W3 Total Cache
 -->
